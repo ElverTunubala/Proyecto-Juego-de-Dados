@@ -1,0 +1,19 @@
+.imagen1{
+    width: 200px;
+    height: 200px;
+}
+.imagen2{
+    width: 200px;
+    height: 200px;
+}
+.section{
+    display: flex;
+}
+.dado{
+    display: flex;
+    flex-direction: column;
+    
+}
+.lanzar{
+    width: 90px;
+}
